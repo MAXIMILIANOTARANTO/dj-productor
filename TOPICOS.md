@@ -2,29 +2,15 @@
 
 Paraguas: dj-productor.
 Raw: https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/TOPICOS.md
+Prompt IA: https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/PARA_CUALQUIER_IA.md
 
-## Tanda 1 — cabina (hecha)
+## Tanda 1 — cabina
+fraseo · un-grave · armonia · set-viaje
 
-| Skill | Oficio |
-|---|---|
-| skills/dj-fraseo | 8/16/32. Mix en el 1 |
-| skills/dj-un-grave | Bass swap. Un low |
-| skills/dj-armonia | Camelot. Troya 7A |
-| skills/dj-set-viaje | Warm / journey / pico / coda |
+## Tanda 2 — tema y estudio
+composicion-tema · mezcla-estudio · toma-voz · corrientes
 
-## Tanda 2 — tema y estudio (hecha)
+## Tanda 3 — oficio fino
+fx-puntuacion · crate · lectura-pista · stems-cabina · linaje
 
-| Skill | Oficio |
-|---|---|
-| skills/dj-composicion-tema | Intro cuerpo quiebre outro. No loop eterno |
-| skills/dj-mezcla-estudio | Frecuencias, HPF, duck, LUFS |
-| skills/dj-toma-voz | Letra vs style. Variety Off. Empalme |
-| skills/dj-corrientes | Limpia / tech / organica / constante |
-
-## Tanda 3 — oficio fino (pendiente)
-
-- dj-fx-puntuacion
-- dj-crate
-- dj-lectura-pista
-- dj-stems-cabina
-- dj-linaje
+Las tres tandas están hechas. El paraguas cierra el FINAL.
