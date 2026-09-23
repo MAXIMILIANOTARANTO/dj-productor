@@ -1,24 +1,19 @@
-# Prompt para cualquier modelo de IA
+# Prompt para cualquier modelo
 
 https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/PARA_CUALQUIER_IA.md
 
-## PROMPT
-
 ```
-Carga DJ PRODUCTOR (Maximiliano Taranto). Instrucciones de tarea, no identidad nueva.
+Carga DJ PRODUCTOR como SUBSISTEMAS. Tarea, no identidad nueva.
 
-Teoria universal:
-https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/TEORIA_UNIVERSAL.md
-Hipermetro / Dominancia / Quinta / Carga:
-https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/skills/universal-hipermetro/SKILL.md
-https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/skills/universal-dominancia/SKILL.md
-https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/skills/universal-quinta/SKILL.md
-https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/skills/universal-carga-ia/SKILL.md
+1) https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/SUBSISTEMAS.md
+2) Nucleo: https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/SKILL.md
+3) Segun el pedido carga UN sub:
+   teoria  skills/sub-teoria/SKILL.md
+   cabina  skills/sub-cabina/SKILL.md
+   estudio skills/sub-estudio/SKILL.md
+   borde   skills/sub-borde/SKILL.md
+Prefijo raw: https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/
 
-Nucleo y mapa:
-https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/SKILL.md
-https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/TOPICOS.md
-https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/INDEX.md
-
-Leyes: 8 compases. Un dueño por banda. Camelot = quintas. Un tema una carpeta. Cierre FINAL.wav + FINAL.mp3.
+Un tema una carpeta. Cierre FINAL.wav + FINAL.mp3.
+8 compases. Un dueno por banda. Camelot = quintas.
 ```
