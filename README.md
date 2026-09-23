@@ -1,14 +1,8 @@
 # dj-productor
 
-Skill final. Un tema, una carpeta, un FINAL.
+Repo público.
 
-## Enlace para cualquier IA
+**Skill limpio para cualquier IA (un archivo):**
+https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/SKILL_LIMPIO.md
 
-https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/PARA_CUALQUIER_IA.md
-
-Índice: https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/INDEX.md
-
-```bash
-python3 scripts/nuevo_tema.py --slug destruir-troya --bpm 118 --key Dm --corriente tech --voz si
-python3 scripts/cerrar_tema.py --slug destruir-troya
-```
+Página: https://github.com/MAXIMILIANOTARANTO/dj-productor/blob/main/SKILL_LIMPIO.md
