@@ -1,13 +1,32 @@
-# INDEX — DJ Productor (raw)
+# INDEX — DJ Productor
 
-Repo público. Gratis. Replicable. Cualquier modelo puede fetchear.
+https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/PARA_CUALQUIER_IA.md
+https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/TOPICOS.md
+https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/SKILL.md
 
-- Skill: https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/SKILL.md
-- Prompt IA: https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/PARA_CUALQUIER_IA.md
-- Pipeline: https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/references/pipeline.md
-- nuevo_tema.py: https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/scripts/nuevo_tema.py
-- cerrar_tema.py: https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/scripts/cerrar_tema.py
-- Toma: https://raw.githubusercontent.com/MAXIMILIANOTARANTO/sistema-toma-sonora/main/SKILL.md
-- Piso: https://raw.githubusercontent.com/MAXIMILIANOTARANTO/maestro-electronica-dj/main/SKILL.md
+## Skills (raw)
 
-HTML humano: https://github.com/MAXIMILIANOTARANTO/dj-productor
+### Cabina
+- https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/skills/dj-fraseo/SKILL.md
+- https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/skills/dj-un-grave/SKILL.md
+- https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/skills/dj-armonia/SKILL.md
+- https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/skills/dj-set-viaje/SKILL.md
+
+### Tema / estudio
+- https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/skills/dj-composicion-tema/SKILL.md
+- https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/skills/dj-mezcla-estudio/SKILL.md
+- https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/skills/dj-toma-voz/SKILL.md
+- https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/skills/dj-corrientes/SKILL.md
+
+### Oficio fino
+- https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/skills/dj-fx-puntuacion/SKILL.md
+- https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/skills/dj-crate/SKILL.md
+- https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/skills/dj-lectura-pista/SKILL.md
+- https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/skills/dj-stems-cabina/SKILL.md
+- https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/skills/dj-linaje/SKILL.md
+
+### Borde
+- https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/skills/dj-vivo/SKILL.md
+- https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/skills/dj-rider/SKILL.md
+- https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/skills/dj-radio-edit/SKILL.md
+- https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/skills/dj-samples/SKILL.md
