@@ -1,23 +1,25 @@
 # Tópicos DJ — mapa de skills
 
-Cada tópico = un skill. El paraguas sigue siendo dj-productor.
+Paraguas: dj-productor.
 Raw: https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/TOPICOS.md
 
 ## Tanda 1 — cabina (hecha)
 
 | Skill | Oficio |
 |---|---|
-| skills/dj-fraseo | Mezclar 8/16/32, no el beat suelto |
-| skills/dj-un-grave | Bass swap. Un dueño del low |
-| skills/dj-armonia | Camelot / Open Key. 7A Troya |
+| skills/dj-fraseo | 8/16/32. Mix en el 1 |
+| skills/dj-un-grave | Bass swap. Un low |
+| skills/dj-armonia | Camelot. Troya 7A |
 | skills/dj-set-viaje | Warm / journey / pico / coda |
 
-## Tanda 2 — tema y estudio (pendiente)
+## Tanda 2 — tema y estudio (hecha)
 
-- dj-composicion-tema
-- dj-mezcla-estudio
-- dj-toma-voz
-- dj-corrientes
+| Skill | Oficio |
+|---|---|
+| skills/dj-composicion-tema | Intro cuerpo quiebre outro. No loop eterno |
+| skills/dj-mezcla-estudio | Frecuencias, HPF, duck, LUFS |
+| skills/dj-toma-voz | Letra vs style. Variety Off. Empalme |
+| skills/dj-corrientes | Limpia / tech / organica / constante |
 
 ## Tanda 3 — oficio fino (pendiente)
 
