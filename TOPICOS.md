@@ -1,16 +1,11 @@
 # Tópicos DJ — mapa de skills
 
 Paraguas: dj-productor.
-Raw: https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/TOPICOS.md
-Prompt IA: https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/PARA_CUALQUIER_IA.md
+https://raw.githubusercontent.com/MAXIMILIANOTARANTO/dj-productor/main/TOPICOS.md
 
-## Tanda 1 — cabina
-fraseo · un-grave · armonia · set-viaje
+1 cabina — fraseo, un-grave, armonia, set-viaje
+2 tema/estudio — composicion-tema, mezcla-estudio, toma-voz, corrientes
+3 oficio fino — fx, crate, lectura-pista, stems-cabina, linaje
+4 borde — vivo, rider, radio-edit, samples
 
-## Tanda 2 — tema y estudio
-composicion-tema · mezcla-estudio · toma-voz · corrientes
-
-## Tanda 3 — oficio fino
-fx-puntuacion · crate · lectura-pista · stems-cabina · linaje
-
-Las tres tandas están hechas. El paraguas cierra el FINAL.
+Cierre del sistema: un tema, una carpeta, un FINAL.
